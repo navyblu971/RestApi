@@ -1,0 +1,20 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "le cristal',
+      "address":"13 rue vignon",
+      "businessType":2
+    }, 
+    {
+      "id": 2,
+      "name": "le paris madere',
+      "address":"28 rue caumartin",
+      "businessType":1
+    }
+    
+  ],
+  "profile": {
+    "name": "store"
+  }
+}
